@@ -2,7 +2,7 @@ import platform, os
 
 def __main__():
   try:
-    __import__('Instagram').__masuk__()
+    __import__('ignew').__masuk__()
   except Exception as e:
     exit(f"\x1b[1;97m[\x1b[1;91m!\x1b[1;97m]\x1b[1;91m {e}")
 
