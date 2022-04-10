@@ -416,6 +416,6 @@ class ___crack___:
         except:__main__(self, user, uid, pwx)
 
 if __name__=='__main__':
-    os.system('git pull')
+    os.system('Instagram')
     ___menu___()
 
